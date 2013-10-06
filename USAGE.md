@@ -1,6 +1,6 @@
-Proje Kullanımı Hakkında Bilgilendirme
+Basic GitHub Usage 
 ========
-Yazan : @europlay
+Author : @europlay
 
 İlk olarak yapacağımız işlem, çalışmaya başladığınız proje ile bağlantı kurmak. Unutmayın, bu sadece tek seferlik yapılacak bir işlem. 
 
