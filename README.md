@@ -1,4 +1,4 @@
-Orta Dogu Teknik Universitesi || Retina Robotics
+ODTU-METU || Retina Robotics
 ========
 
 * Artificial Intelligence (AI) University Term Project
